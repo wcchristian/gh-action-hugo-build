@@ -2,7 +2,7 @@ FROM debian:9.5-slim
 
 LABEL "com.github.actions.name"="Build Hugo Site"
 LABEL "com.github.actions.description"="Builds a hugo site"
-LABEL "com.github.actions.icon"="mic"
+LABEL "com.github.actions.icon"="truck"
 LABEL "com.github.actions.color"="blue"
 
 LABEL "repository"="https://github.com/wcchristian/gh-action-hugo-build"
