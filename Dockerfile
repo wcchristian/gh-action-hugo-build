@@ -1,4 +1,3 @@
-
 FROM debian:9.5-slim
 
 LABEL "com.github.actions.name"="Build Hugo Site"
