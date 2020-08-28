@@ -3,7 +3,7 @@
 apt-get update
 apt-get install -y wget git
 
-wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.74.3_Linux-64bit.deb
 
 yes | dpkg -i hugo*.deb
 
